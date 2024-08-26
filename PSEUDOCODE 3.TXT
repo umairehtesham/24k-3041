@@ -1,0 +1,11 @@
+START
+ INPUT number1
+ INPUT number2
+ INOUT operator(+ or -)
+ SET sum to number1 + number2
+ SET difference to number1 - number2
+ IF operator = (+)
+   THEN display "sum"
+ ELSE display "difference"
+ END IF
+STOP
