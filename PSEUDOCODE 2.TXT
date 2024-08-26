@@ -1,0 +1,8 @@
+START
+ INPUT number x
+ INPUT number y
+ INPUT number z
+ INPUT average of numbers
+ SET sum to average of numbers x 3
+   DISPLAY "sum"
+END
