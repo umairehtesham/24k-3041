@@ -1,0 +1,42 @@
+START
+Ask user for number 
+SET number=1 as JANUARY 
+IF number=1
+THEN print JANUARY 
+SET number=2 as FEBUARY 
+IF number=2 
+THEN print FEBUARY 
+SET number=3 as MARCH 
+IF number=3 
+THEN print MARCH
+SET number=4 as APRIL 
+IF number=4
+THEN print APRIL
+SET number=5 as MAY
+IF number=5 
+THEN print MAY
+SET number=6 as JUNE
+IF number=6 
+THEN print JUNE
+SET number=7 as JULY
+IF number=7
+THEN print JULY
+SET number=8 as AUGUST
+IF number=8 
+THEN print AUGUST 
+SET number=9 as SEPTEMBER
+IF number=9
+THEN print SEPTEMBER 
+SET number=10 as OCTOBER 
+IF number=10
+THEN print OCTOBER 
+SET number=11 as NOVEMBER 
+IF number=11 
+THEN print NOVEMBER
+SET number=12 as DECEMBER 
+IF number=12 
+THEN print DECEMBER 
+ELSE print ERROR 
+END IF
+END
+
