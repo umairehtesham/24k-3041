@@ -1,0 +1,9 @@
+START
+Ask the user for number N
+Ask the user for number n
+SET result to N/n
+IF result%2=0
+ THEN display EVEN
+ELSE,
+      display ODD
+END
