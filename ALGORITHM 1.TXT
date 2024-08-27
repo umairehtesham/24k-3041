@@ -2,8 +2,13 @@ START
 Ask the user for number N
 Ask the user for number n
 SET result to N/n
-IF result%2=0
- THEN display EVEN
-ELSE,
-      display ODD
+IF remainder is equal to 0 THEN
+  display "N is a divisor of n"
+ELSE 
+  display "N is not a divisor"
+for N is a divisor of n
+IF result divided 2 with a remainder eual to 0
+  display "EVEN"
+ELSE 
+  display "ODD"
 END
