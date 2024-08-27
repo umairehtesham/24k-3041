@@ -4,8 +4,8 @@ START
  INOUT operator(+ or -)
  SET sum to number1 + number2
  SET difference to number1 - number2
- IF operator = (+)
-   THEN display "sum"
- ELSE display "difference"
- END IF
+ IF operator = (+) THEN
+    display "sum"
+ ELSE
+    display "difference"
 STOP
