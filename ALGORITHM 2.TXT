@@ -37,6 +37,5 @@ SET number=12 as DECEMBER
 IF number=12 
 THEN print DECEMBER 
 ELSE print ERROR 
-END IF
 END
 
