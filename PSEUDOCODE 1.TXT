@@ -2,11 +2,10 @@ START
  INPUT number x
  INPUT number y
  INPUT number z
- IF number x > number y and number x > number z
-   THEN print "The maximum number is number x"
- IF number y > number x and number y > number z
-    THEN print "The maximum number is number y"
+ IF number x > number y and number x > number z THEN
+    print "The maximum number is number x"
+ IF number y > number x and number y > number z THEN
+    print "The maximum number is number y"
  ELSE 
     print "The maximum number is number z"
- END IF
 STOP
