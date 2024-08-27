@@ -1,0 +1,22 @@
+START 
+ ask the user for number 1
+ ask the user for number 2
+ ask the user for operator (+,-,x,/,%)
+ SET sum is eual to number 1 = number 2
+ IF operator is equal to (+) THEN
+   display "sum'
+ SET difference is equal to number 1 - number 2
+ IF OPERATOR equal to (-)
+   display "difference"
+ SET multiplication is equal to number 1 x number 2
+ IF operator is equal to (X) THEN
+   display "multiplication"
+ SET divide is equal to number 1 / number 2 
+ IF operator is equal to (/) THEN
+   display "divide"
+ SET remainder is equal to number % number 2
+ IF operator is equal to % THEN
+   display "remainder"
+ END if
+END
+
